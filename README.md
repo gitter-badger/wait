@@ -10,3 +10,9 @@ This repository will always be updated at Christmas to start a new countdown, as
 
 ### License 
 The [MIT License](http://vutondesign.com/MyMIT/)
+
+### Current Version
+- v1.0
+
+### Preview
+![example-img](./img/example.png)
