@@ -1,6 +1,6 @@
 # Contributing
 
-It's great that you want to contribute to bronze! Please read through this short documentation on contributing before you start.
+It's great that you want to contribute to wait! Please read through this short documentation on contributing before you start.
 
 ----
 
