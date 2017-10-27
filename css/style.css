@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
 
 html,
 body {
@@ -13,4 +14,8 @@ body {
     overflow-x: hidden;
     text-align: center;
     text-transform: none;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
 }
