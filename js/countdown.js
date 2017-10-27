@@ -1,4 +1,4 @@
-var countDownDate = new Date("Dec 25, 2017 00:00:00").getTime();
+var countDownDate = new Date("Dec 25, 2016 00:00:00").getTime();
 
 var x = setInterval(function() {
 
@@ -11,11 +11,12 @@ var x = setInterval(function() {
     var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
     var seconds = Math.floor((distance % (1000 * 60)) / 1000);
     
-    document.getElementById("demo").innerHTML = days + "d " + hours + "h "
+    document.getElementById("countdown").innerHTML = days + "d " + hours + "h "
     + minutes + "m " + seconds + "s ";
     
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("demo").innerHTML = "EXPIRED";
+        document.getElementById("countdown").innerHTML = "Whoops, This page needs a new year update! Please let the owner know - https://github.com/VutonDesign/wait/issues/new ";
     }
 }, 1000);
+ 
