@@ -3,7 +3,7 @@
 
 
 ### Usage
-Visit the [site](http://vutondesign.com/wait/)
+Visit the [site](http://vutondesign.com/wait/), Remember to Star this if you find it useful!
 
 ### Updates
 This repository will always be updated at Christmas to start a new countdown, as well as general updates throught the year to add new features and fix any bugs.
