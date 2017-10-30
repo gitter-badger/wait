@@ -17,6 +17,3 @@ This repository will always be updated at Christmas to start a new countdown, as
 
 ### License 
 The [MIT License](http://vutondesign.com/MyMIT/)
-
-### Repo Size
-115 KB
