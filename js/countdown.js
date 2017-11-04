@@ -16,7 +16,7 @@ var x = setInterval(function() {
     
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("countdown").innerHTML = "Whoops, This page needs a new year update! Please let the owner know - https://github.com/VutonDesign/wait/issues/new ";
+        document.getElementById("countdown").innerHTML = "Merry Christmas!";
     }
 }, 1000);
  
