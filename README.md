@@ -13,7 +13,7 @@ This repository will always be updated at Christmas to start a new countdown, as
 ### Some Reasons to use Wait
 - An accurate countdown that loads swiftly
 - Simple and elegant design 
-- Actively maintained & updated
+- Actively maintained
 
 ### License 
 [MIT License](http://vutondesign.com/MyMIT/)
