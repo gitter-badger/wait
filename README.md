@@ -13,7 +13,7 @@ This repository will always be updated at Christmas to start a new countdown, as
 - Actively maintained
 
 ### License 
-[MIT License](http://vutondesign.com/MyMIT/)
+🎨 with ❤️ by vutondesign under the [MIT License](http://vutondesign.com/MyMIT/).
 
 ### Credits
 http://www.schillmania.com/projects/snowstorm/ - Snow Effect
