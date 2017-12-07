@@ -4,6 +4,9 @@
 ### Usage
 Visit the [site](http://vutondesign.com/wait/), remember to Star this repository if you find it useful!
 
+### Install
+```git clone https://github.com/vutondesign/wait.git``` 
+
 ### Updates
 This repository will always be updated at Christmas to start a new countdown, as well as general updates throught the year to add new features and fix any bugs.
 
