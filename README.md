@@ -2,7 +2,7 @@
 <p align="center"> 💎 A beautiful Christmas countdown </p>
 
 ### Usage
-Visit the [site](http://vutondesign.com/wait/), remember to Star this repository if you find it useful!
+Visit the [site](https://vutondesign.com/wait/), remember to Star this repository if you find it useful!
 
 ### Install
 ```
@@ -18,7 +18,7 @@ This repository will always be updated at Christmas to start a new countdown, as
 - Actively maintained
 
 ### License 
-🎨 with ❤️ by vutondesign under the [MIT License](http://vutondesign.com/MyMIT/).
+🎨 with ❤️ by vutondesign under the [MIT License](https://vutondesign.com/mymit/).
 
 ### Credits
 http://www.schillmania.com/projects/snowstorm/ - Snow Effect
