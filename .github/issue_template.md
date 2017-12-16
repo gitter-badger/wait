@@ -5,4 +5,4 @@ _Let us know what you think should happen_
 _Let us know what actually happens_
 
 #### Steps to reproduce
-_How can we reproduce your issue?_
+_How can we reproduce your problem?_
