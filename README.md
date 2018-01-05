@@ -7,7 +7,7 @@
 ### Usage
 Visit the [site](https://vutondesign.com/wait/), remember to Star this repository if you find it useful!
 
-### Install
+### Clone 
 ```
 git clone https://github.com/vutondesign/wait.git
 ``` 
