@@ -1,7 +1,8 @@
 <h1 align="center"> Wait </h1>
 <p align="center"> 💎 A beautiful Christmas countdown </p>
-![Code of Conduct](https://img.shields.io/badge/%E2%88%9A-Code%20of%20Conduct-orange.svg)
-
+<p align="center">
+  <a href="http://vutondesign.com/MyMIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
+</p>
 
 ### Usage
 Visit the [site](https://vutondesign.com/wait/), remember to Star this repository if you find it useful!
