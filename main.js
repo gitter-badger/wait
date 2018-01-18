@@ -27,17 +27,20 @@ function preloadImages(){
     for (i=0; i < preloadImages.arguments.length; i++){
 
          images[i] = new Image();
-
+        
         images[i].src = preloadImages.arguments[i];
     }
 }
 preloadImages("favicon.ico");
 
+
 // Current date feature
   function showDate() {
+      
     var d = new Date();
     var curr_date = d.getDate();
     var curr_month = d.getMonth() + 1; //months are zero based
     var curr_year = d.getFullYear();
-    document.write(curr_date + "-" + curr_month + "-" + curr_year);
+    document.write(curr_date + "." + curr_month + "." + curr_year);
+      
   }
