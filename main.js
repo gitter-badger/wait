@@ -33,5 +33,3 @@ function preloadImages(){
 }
 preloadImages("favicon.ico");
 
-// Copy of code used to print the page
-javascript:window.print();
