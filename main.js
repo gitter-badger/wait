@@ -1,3 +1,4 @@
+// The main coundown code
 var countDownDate = new Date("Dec 25, 2018 00:00:00").getTime();
 
 var x = setInterval(function() {
@@ -19,3 +20,18 @@ var x = setInterval(function() {
         document.getElementById("countdown").innerHTML = "Merry Christmas!";
     }
 }, 1000);
+
+// Preload the favicon
+var images = new Array();
+function preloadImages(){
+    for (i=0; i < preloadImages.arguments.length; i++){
+
+         images[i] = new Image();
+
+        images[i].src = preloadImages.arguments[i];
+    }
+}
+preloadImages("favicon.ico");
+
+// Copy of code used to print the page
+javascript:window.print();
