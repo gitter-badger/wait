@@ -5,7 +5,7 @@
 </p>
 
 ### Usage
-Visit the [site](https://vutondesign.com/wait/), remember to Star this repository if you find it useful!
+Visit the [site](http://ktrvs.com/wait/), remember to Star this repository if you find it useful!
 
 ### Clone 
 ```
@@ -21,5 +21,5 @@ This repository will always be updated at Christmas to start a new countdown, as
 - Actively maintained
 
 ### License 
-🎨 with ❤️ by vutondesign under the [MIT License](http://vutondesign.com/mymit/).
+🎨 with ❤️ by vutondesign under the [MIT License](http://ktrvs.com/mymit/).
 
