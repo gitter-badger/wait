@@ -21,5 +21,5 @@ This repository will always be updated at Christmas to start a new countdown, as
 - Actively maintained
 
 ### License 
-🎨 with ❤️ by vutondesign under the [MIT License](http://ktrvs.com/mymit/).
+🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/mymit/).
 
