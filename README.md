@@ -9,7 +9,7 @@ Visit the [site](http://ktrvs.com/wait/), remember to Star this repository if yo
 
 ### Clone 
 ```
-git clone https://github.com/vutondesign/wait.git
+git clone https://github.com/ktrvs/wait.git
 ``` 
 
 ### Updates
