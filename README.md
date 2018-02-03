@@ -5,6 +5,8 @@
 </p>
 
 ### Usage
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/ktrvs/wait.svg)](https://greenkeeper.io/)
 Visit the [site](http://ktrvs.com/wait/), remember to Star this repository if you find it useful!
 
 ### Clone 
