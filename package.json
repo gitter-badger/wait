@@ -1,0 +1,22 @@
+{
+  "name": "wait",
+  "version": "1.0.0",
+  "description": "A beautiful Christmas countdown ",
+  "main": "main.js",
+  "scripts": {
+    "test": "node . "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktrvs/wait.git"
+  },
+  "keywords": [
+    "countdown"
+  ],
+  "author": "ktrvs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktrvs/wait/issues"
+  },
+  "homepage": "https://github.com/ktrvs/wait#readme"
+}
