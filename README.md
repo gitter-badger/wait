@@ -10,13 +10,14 @@ git clone https://github.com/ktrvs/wait.git
 npm install
 ```
 
-### [Preview](htpps://ktrvs.com/wait)
-^
+### Preview
+[Check it out](https://ktrvs.com/wait).
 
 ### Use the code snippet
 ```
 curl -L https://raw.githubusercontent.com/ktrvs/wait/master/main.js
 ``` 
+or [download the .zip](https://raw.githubusercontent.com/ktrvs/wait/master/main.js).
 
 ### License 
 🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/mymit/).
