@@ -22,3 +22,6 @@ or [download the .zip](https://raw.githubusercontent.com/ktrvs/wait/master/main.
 ### License 
 🎨 with ❤️ by ktrvs under the [MIT License](http://ktrvs.com/mymit/).
 
+### Credits
+- [Clock Sound](https://www.soundjay.com/clock-sounds-1.html)
+- [Background Image](https://www.toptal.com/designers/subtlepatterns/page/2/)
