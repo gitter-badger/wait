@@ -1,5 +1,4 @@
-// The main coundown code
-var countDownDate = new Date("Dec 25, 2018 00:00:00").getTime();
+var countDownDate = new Date("Dec 30, 2018 00:00:00").getTime();
 
 var x = setInterval(function() {
 
@@ -20,32 +19,3 @@ var x = setInterval(function() {
         document.getElementById("countdown").innerHTML = "Merry Christmas!";
     }
 }, 1000);
-
-// Preload the favicon
-var images = new Array();
-function preloadImages(){
-    for (i=0; i < preloadImages.arguments.length; i++){
-
-         images[i] = new Image();
-
-        images[i].src = preloadImages.arguments[i];
-    }
-}
-preloadImages("favicon.ico");
-
-
-// Current date feature
-  function showDate() {
-
-    var d = new Date();
-    var curr_date = d.getDate();
-    var curr_month = d.getMonth() + 1; //months are zero based
-    var curr_year = d.getFullYear();
-    document.write(curr_date + "." + curr_month + "." + curr_year);
-
-  }
-
-// Post two helpful little console logs
-console.log("Hello! This website is open-source and hosted on GitHub. If you here to look at the code for the page, you can view it all at https://github.com/vutondesign/wait");
-console.log("Info and credits - The site was build using Javascript, HTML & Bootstrap, The favicon is a twemoji.");
-console.log("You can read more about Wait at https://github.com/vutondesign/wait/blob/master/README.md");

@@ -1,33 +1,36 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-  <title> Wait </title>
-  <script src="main.js" type="text/javascript"></script>
+  <title>Wait</title>
+  <script src="preview.js" type="text/javascript"></script>
   <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
   <style>
+    body {
+      background-color: #F2F1EF;
+    }
+
+    h2 {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 100px;
+      color: #22313F;
+      left: 0;
+      line-height: 200px;
+      margin: auto;
+      margin-top: -100px;
+      position: absolute;
+      top: 50%;
+      width: 100%;
+    }
+
+    .grow { transition: all .2s ease-in-out; }
+    .grow:hover { transform: scale(1.1); }
   </style>
 </head>
-<body>
+<body background="bg.png">
 <center>
-    <div class="jumbotron jumbotron-fsluid" style="background-color: #34495e;">
-      <div class="container">
-         <h1 class="display-4" style="color: #3498db;">Wait</h1>
-         <p class="lead" style="color: white;">A handy Christmas countdown</p>
-        <br/>
-        <hr/>
-        <br/>
-         <h2 class="display-4" style="color: white;" id="countdown"></h2>
-         <p class="lead" style="color: white;">until christmas!</p>
-        <br/>
-        <hr/>
-        <br/>
-         <a class="btn btn-primary" href="https://github.com/vutondesign/wait" role="button">View the code</a>
-         <a class="btn btn-primary" href="https://github.com/vutondesign/wait/issues/new" role="button">Report an issue</a>
-       </div>
-     </div>
-     <p class="lead" style="color: #34495e;"> Current Date: <script type="text/javascript">showDate();</script></p>
+    <h2 id="countdown" class="grow">Loading...</h2>
 </center>
 </body>
 </html>
